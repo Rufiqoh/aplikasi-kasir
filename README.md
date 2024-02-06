@@ -1,2 +1,2 @@
-akun = admin, password = admin
-akun = petugas, password = petugas
+<akun = admin, password = admin>
+<akun = petugas, password = petugas>
